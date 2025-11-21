@@ -1,4 +1,4 @@
-# Pre-training For DCRN
+# Pre-training For scSiameseClu
 
 ## Quick Start
 
