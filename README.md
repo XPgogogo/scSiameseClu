@@ -1,5 +1,5 @@
 # scSiameseClu
-**A Siamese Clustering Framework for Interpreting Single-cell RNA Sequencing Data**
+**A Siamese Clustering Framework for Interpreting Single-cell RNA Sequencing Data** published in **IJCAI 2025**（CCF-A）.
 
 **Extended Version (arXiv):** [https://arxiv.org/abs/2505.12626](https://arxiv.org/abs/2505.12626)
 
